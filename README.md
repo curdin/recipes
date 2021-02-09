@@ -1,2 +1,2 @@
 # recipes
-Recipes. For food like.
+Recipes. For food like. Yum.
