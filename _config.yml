@@ -22,8 +22,6 @@ title: My recipes
 email: curdin.k@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Just some recipes I like to cook
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: curdin
 
 # Build settings
