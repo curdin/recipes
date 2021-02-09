@@ -1,8 +1,70 @@
 ---
 ---
 
+h1, h2, h3, h4, h5, h6,
+p, blockquote, li, a {
+  font-family: monaco, Consolas, Lucida Console, monospace;
+  font-style: normal;
+  font-variant: normal;
+  line-height: 23px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-weight: 700;
+}
+
+
+h1 {
+  font-size: 23px;
+}
+
+h1 {
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 17px;
+}
+
+p {
+  font-family: monaco, Consolas, Lucida Console, monospace;
+  font-size: 14px;
+  font-weight: 400;
+}
+
 
 .wrapper {
   margin: 0 auto;
-  max-width: 960px;
+  max-width: 760px;
+}
+
+.flex-list {
+  display: flex;
+  padding: 0;
+}
+
+.flex-list li {
+  width: 50%;
+  margin: 1.5rem;
+}
+
+
+.recipe-list-item {
+  list-style: square;
+}
+
+.simple-link,
+.simple-link:link,
+.simple-link:visited {
+    color: black;
+    text-decoration: none;
+    background-color: transparent;
+}
+
+.simple-link:hover {
+  background-color: #FFFF00;
+}
+
+.highlight {
+  background-color: #FFFFBF;
 }

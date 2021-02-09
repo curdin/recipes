@@ -4,11 +4,15 @@ desc: Roughly McClure's style
 ---
 
 
-## info  
+## info
+
+{:.info} 
 * About 30 minutes  
 * 2x 670g jars  
 
 ## ingredients
+
+{:.ingredients}
 * 700g Gherkins
 * 6 cloves of garlic (20-25g)
 * 1/4 cup of salt (~30g)
@@ -17,7 +21,9 @@ desc: Roughly McClure's style
 * 2 tsp pepper
 * 4 sprigs of Dill
 
-## steps  
+## steps
+
+{:.steps}
 1. Put all gherkins in cold water for a few minutes, pull of dirt & dried flowers
 2. If large gherkins cut them into spears
 3. Bring a large pot of water to boil, pop in your jars, lids and some tongs to sterilise
@@ -28,9 +34,13 @@ desc: Roughly McClure's style
 8. Fill jar with boiling water/vinegar mix
 9. Close jars and let them cool down
 
-## notes  
+## notes
+
+{:.notes}
 * Add coriander seeds, peppers, whatever else you like.
 
-## based on  
+## based on
+
+{:.based-on}
 * https://www.food.com/recipe/mcclures-garlic-and-dill-pickles-447357
 * http://motherskitchen.blogspot.com/2010/07/can-jam-mcclures-pickles-my-way.html

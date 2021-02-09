@@ -1,0 +1,28 @@
+<script>
+
+
+
+  let klass = 'highlight';
+  let steplist = document.querySelector('.steps');
+  let steps = steplist.querySelectorAll('li');
+
+  steps.forEach(
+    function(step) {
+      step.addEventListener('click', function (e) {
+
+      	// If the clicked element doesn't have the right selector, bail
+      	if (e.target.classList.contains(klass)) {
+          e.target.classList.remove(klass);
+        } else {
+          e.target.classList.add(klass);
+          for (let sibling of this.parentNode.children) {
+              if (sibling !== this) sibling.classList.remove(klass);
+          }
+        }
+      }, false);
+    }
+  );
+
+
+
+</script>

@@ -3,15 +3,15 @@ layout: default
 ---
 
 <div class="home">
-  <div class="home-title">
+  <div class="title">
     <h1>{{ site.title }}</h1>
     <p>{{- site.description | escape -}}</p>
   </div>
   {% if site.recipes.size > 0 %}
-  <ul class="post-list">
+  <ul class="flex-list recipe-list">
     {% for recipe in site.recipes %}
-      <li>
-          <a class="black-link post-link-layout" href="{{ recipe.url | relative_url }}">
+      <li class="recipe-list-item">
+          <a class="simple-link" href="{{ recipe.url | relative_url }}">
             {{ recipe.title | escape }}
           </a>
       </li>

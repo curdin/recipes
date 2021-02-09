@@ -2,11 +2,15 @@
 title: Sour-dough Everything Bagels
 ---
 
-## info  
+## info
+
+{:.info}
 * About 45 minutes without dough making...
 * 8 Bagels
 
 ## ingredients
+
+{:.ingredients}
 * 125g frothy, happy sourdough starter
 * 500g flour
 * 250g water
@@ -20,7 +24,9 @@ title: Sour-dough Everything Bagels
 * Dried onion flakes
 
 
-## steps  
+## steps
+
+{:.steps}
 1. Combine starter, flour, water, salt and 20g of sugar/honey
 2. Knead by hand or with mixer for 6-7 minutes
 3. Let raise until doubled, around 4-5 hours in summer
@@ -34,7 +40,11 @@ title: Sour-dough Everything Bagels
 11. Dip cooked bagels into seed mix
 12. Bake Bagels at 220C for 26-28 minutes.
 
-## notes  
+## notes
 
-## based on  
+{:.notes}
+
+## based on
+
+{:.based-on}
 * https://littlespoonfarm.com/sourdough-bagels-recipe/
