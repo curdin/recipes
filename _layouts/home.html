@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<div class="home">
+  <div class="home-title">
+    <h1>{{ site.title }}</h1>
+    <p>{{- site.description | escape -}}</p>
+  </div>
+  {% if site.recipes.size > 0 %}
+  <ul class="post-list">
+    {% for recipe in site.recipes %}
+      <li>
+          <a class="black-link post-link-layout" href="{{ recipe.url | relative_url }}">
+            {{ recipe.title | escape }}
+          </a>
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+</div>
