@@ -40,17 +40,15 @@ p {
 
 .flex-list {
   display: flex;
+  flex-wrap: wrap;
   padding: 0;
 }
 
-.flex-list li {
-  width: 50%;
-  margin: 1.5rem;
-}
-
-
 .recipe-list-item {
+  box-sizing: border-box;
+  flex: 0 0 50%;
   list-style: square;
+  padding: 1rem 0.5rem;
 }
 
 .simple-link,
