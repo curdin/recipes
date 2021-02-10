@@ -1,7 +1,5 @@
 <script>
 
-
-
   let klass = 'highlight';
   let steplist = document.querySelector('.steps');
   let steps = steplist.querySelectorAll('li');
@@ -22,6 +20,33 @@
       }, false);
     }
   );
+
+
+//Enable keyboard navigation for step list (Up and down keys)
+document.addEventListener('keydown', function (e) {
+
+  switch(e.which) {
+    case 38: 						// up
+    if ((currentStep = steplist.querySelector('.' + klass))
+      && (previousStep = currentStep.previousElementSibling)){
+      currentStep.classList.remove(klass);
+      previousStep.classList.add(klass)
+    };
+    break;
+    case 40: 						// down
+    if (currentStep = steplist.querySelector('.' + klass)){
+      currentStep.classList.remove(klass);
+      if (nextStep = currentStep.nextElementSibling) {
+        nextStep.classList.add(klass)
+      }
+    } else {
+      steplist.querySelector('li').classList.add(klass); //Select the first one
+    }
+    break;
+    default: return;
+  }
+
+})
 
 
 
