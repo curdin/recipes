@@ -28,14 +28,15 @@ desc: When you have too many tomatoes
 ## steps  
 
 {:.steps}
-1. Peel and deseed tomatoes, then cut them into small chunks
+1. Peel and deseed tomatoes, squeeze them to remove water, then cut them into small chunks
 2. In a stockpot fry onion and garlic in some oil
 3. Once translucent, add tomatoes.
 4. Add all other ingredients except cornflour
-5. Bring to a boil, simmer for around 3 hours or until thickening
-6. Run the sauce through a sieve to remove any chunks
-7. Use Cornflour mixed with cold water to thicken the sauce, adding a tsp at a time
-8. Bottle once right consistency has been reached
+5. Bring to a boil, simmer for around 1 hour or until thickening a little
+6. Turn it into liquid using a food processor
+7. Run the sauce through a sieve to remove any chunks
+8. Use Cornflour mixed with cold water to thicken the sauce, adding a tsp at a time, or boil down further
+9. Bottle once right consistency has been reached
 
 ## notes
 
