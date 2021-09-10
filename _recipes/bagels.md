@@ -13,7 +13,7 @@ title: Sour-dough Everything Bagels
 {:.ingredients}
 * 125g frothy, happy sourdough starter
 * 500g flour
-* 250g water
+* 270g water
 * 10g salt
 * 20g sugar or big tablespoon of honey
 * Another tablespoon of sugar for boiling
@@ -33,7 +33,7 @@ title: Sour-dough Everything Bagels
 4. Once doubled, divide dough into 8 portions
 5. Tighten dough by folding into small balls and rotate/pinch
 6. To turn them into bagel shape take a dough ball, stick the finger in the top, then stick a finger from your other hand in the bottom and rotate to expand the hole. Use 2 fingers when there's room.
-7. With all bagels shaped let them rise for around 45 minutes
+7. With all bagels shaped let them rise for around 90 minutes (or overnight in the fridge)
 8. Bring a pot of water with the extra tablespoon of sugar added to the boil, also preheat oven to 220C
 9. Mix the seeds, salt flakes, garlic powder and onion flakes in a small dish or flat bottom bowl
 10. Gently lift bagels into pot, boil for 2 minutes, flip and boil for another 2 minutes then remove to a cooling rack
