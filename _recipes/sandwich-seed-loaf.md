@@ -33,12 +33,10 @@ desc: Seed loaf, think of it as Vogel's type bread
 
 {:.steps}
 1. Feed starter the day before so it's happy (60g of rye/white flour and 60g water)
-1. Mix the 100g starter with flour, water and sugar and mix with a paddle mixer
-1. After a minute or so add oats and seeds and keep the mixer going for around 10 minutes
-1. In a mortar and pestel combine spices and salt and grind for 20 seconds, add to the mixture
-1. Switch to the breadhook and mix for 5 more minutes
-1. Let bulk raise in mixing bowl for 90 minutes
-1. Oil the bread tins and transfer the dough to the tins. Let raise until nearly double.
+1. Mix the 100g starter with flour, water and sugar and mix with a paddle mixer for around 10 minutes
+1. In a mortar and pestel combine spices and salt and grind for 20 seconds
+1. After 10 minutes switch to the breadhook, add oats, seeds and spices and mix for 5 more minutes
+1. Oil a bread tin and transfer the dough to the tin. Let raise until nearly double.
 1. Heat the oven to 220C and mist, bake bread for 40 minutes
 
 
